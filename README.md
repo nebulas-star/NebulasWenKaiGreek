@@ -1,6 +1,6 @@
 # Nebulas WenKai Greek / 星云文楷希腊字母
 
-[Download / 下载](https://github.com/nebulas-star/NebulasWenKaiKGreek/tree/main/Font/)
+[Download / 下载](https://github.com/nebulas-star/NebulasWenKaiGreek/tree/main/Font/)
 
 
 The aim of this project is to provide art fonts with full Unicode encoded Greek characters and pre-combined characters (U+0370 ~ U+03FF (without Coptic alphabet on U+03E2 ~ U+03EF), U+1F00 ~ U+1FFF), As a style option in addition to Serif and Sans.
